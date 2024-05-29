@@ -1,0 +1,101 @@
+Tiffany;2020-01-07;A golden Poodle known for being calm.
+Frank;2014-04-07;A brown Poodle known for being loyal.
+Keith;2013-10-30;A golden Poodle known for being calm.
+Hannah;2021-09-19;A brindle Poodle known for being calm.
+Alicia;2021-07-31;A spotted Poodle known for being affectionate.
+Kathleen;2013-08-02;A grey Poodle known for being affectionate.
+Kimberly;2019-02-22;A grey Poodle known for being protective.
+Matthew;2020-04-07;A white Poodle known for being affectionate.
+Carol;2010-07-01;A tan Poodle known for being protective.
+James;2016-09-29;A black Poodle known for being loyal.
+John;2017-12-31;A tan Golden Retriever known for being friendly.
+Brooke;2022-05-20;A spotted Golden Retriever known for being energetic.
+Kristin;2009-02-24;A grey Golden Retriever known for being friendly.
+Adam;2010-05-01;A golden Golden Retriever known for being energetic.
+Tami;2012-04-30;A black Golden Retriever known for being curious.
+Benjamin;2016-12-22;A golden Golden Retriever known for being curious.
+Elizabeth;2018-10-23;A black Golden Retriever known for being curious.
+Mark;2017-04-12;A white Golden Retriever known for being protective.
+Joshua;2013-02-20;A brindle Golden Retriever known for being affectionate.
+Brandon;2015-03-16;A brown Golden Retriever known for being protective.
+Lisa;2022-04-16;A brindle Pomeranian known for being calm.
+Jessica;2017-02-09;A brindle Golden Retriever known for being curious.
+John;2018-08-11;A spotted Chihuahua known for being playful.
+Amanda;2015-03-12;A grey Chihuahua known for being playful.
+Kimberly;2011-11-04;A tan Golden Retriever known for being playful.
+Jerry;2016-02-15;A spotted German Shepherd known for being affectionate.
+Jeremy;2010-08-29;A golden Beagle known for being calm.
+Jessica;2020-03-08;A brindle Rottweiler known for being protective.
+Brittany;2020-12-04;A tan Chihuahua known for being affectionate.
+Stephanie;2012-03-26;A grey Beagle known for being curious.
+Melissa;2021-12-21;A spotted Poodle known for being protective.
+Paula;2015-05-03;A tan Chihuahua known for being playful.
+Jennifer;2011-05-25;A golden Dachshund known for being playful.
+Edward;2017-10-18;A grey Dachshund known for being affectionate.
+Bobby;2018-05-07;A golden German Shepherd known for being affectionate.
+Daniel;2020-12-01;A grey German Shepherd known for being calm.
+Benjamin;2017-08-05;A black Boxer known for being protective.
+Tracy;2011-11-10;A brown German Shepherd known for being protective.
+Karen;2009-03-23;A golden Siberian Husky known for being energetic.
+Debra;2015-11-29;A grey Dachshund known for being energetic.
+Timothy;2019-03-16;A brindle Poodle known for being loyal.
+Jade;2015-03-22;A black Shih Tzu known for being affectionate.
+Brandon;2009-11-04;A grey Siberian Husky known for being curious.
+Kimberly;2022-09-20;A tan Bulldog known for being friendly.
+Prancer;2008-12-19;A demonic, neurotic, man hating, animal hating, children hating dogs that look like gremlins.
+Leslie;2008-12-10;A black Bulldog known for being curious.
+Shawn;2012-01-23;A white Chihuahua known for being calm.
+Andre;2008-12-07;A white Pomeranian known for being energetic.
+Mary;2022-08-10;A grey Great Dane known for being affectionate.
+Melissa;2018-05-13;A white Boxer known for being calm.
+Jacqueline;2009-11-22;A golden Shih Tzu known for being playful.
+Christopher;2010-07-12;A white Dachshund known for being affectionate.
+John;2023-01-05;A tan Yorkshire Terrier known for being loyal.
+Derrick;2018-04-08;A spotted German Shepherd known for being protective.
+Scott;2008-12-23;A grey Boxer known for being affectionate.
+Stephanie;2023-02-05;A tan Rottweiler known for being curious.
+Larry;2020-04-09;A golden Pomeranian known for being curious.
+Tina;2021-04-28;A brindle Yorkshire Terrier known for being affectionate.
+Nicole;2009-02-23;A spotted Bulldog known for being loyal.
+Ana;2022-10-24;A golden Siberian Husky known for being calm.
+Nicole;2014-05-07;A white Great Dane known for being protective.
+Rebecca;2012-08-16;A brindle Golden Retriever known for being playful.
+Maureen;2016-01-05;A grey Shih Tzu known for being protective.
+Zachary;2022-01-14;A white Boxer known for being curious.
+Lauren;2021-11-07;A white Great Dane known for being protective.
+Kayla;2017-02-15;A white Doberman known for being protective.
+Steven;2011-12-22;A tan Boxer known for being affectionate.
+Elizabeth;2015-08-22;A tan Siberian Husky known for being energetic.
+Cynthia;2008-12-31;A grey Doberman known for being playful.
+Nicole;2020-06-06;A grey Siberian Husky known for being protective.
+Stacey;2014-03-22;A golden Chihuahua known for being curious.
+Jill;2012-04-07;A white Chihuahua known for being loyal.
+Carlos;2021-12-07;A brindle Dachshund known for being energetic.
+Austin;2022-03-28;A brindle Rottweiler known for being loyal.
+Audrey;2019-11-18;A spotted Boxer known for being protective.
+Nina;2016-04-07;A spotted Great Dane known for being calm.
+Brittany;2022-01-26;A tan Siberian Husky known for being friendly.
+Courtney;2017-01-10;A spotted German Shepherd known for being playful.
+Jennifer;2023-03-09;A spotted Shih Tzu known for being energetic.
+Kenneth;2022-04-18;A golden Pomeranian known for being protective.
+Trevor;2020-04-27;A tan Dachshund known for being curious.
+William;2014-11-30;A grey Poodle known for being curious.
+Dawn;2020-01-17;A black Bulldog known for being friendly.
+Gregory;2009-12-19;A black Yorkshire Terrier known for being energetic.
+Charles;2014-02-05;A grey Rottweiler known for being playful.
+Julia;2022-12-11;A grey Bulldog known for being protective.
+Kristy;2022-03-22;A tan Dachshund known for being playful.
+Charles;2009-06-03;A brown Doberman known for being friendly.
+Andrew;2021-08-26;A black Bulldog known for being curious.
+Ethan;2013-05-13;A grey Dachshund known for being friendly.
+Steven;2011-11-15;A brindle Great Dane known for being calm.
+Amanda;2018-04-06;A white Pomeranian known for being calm.
+William;2017-03-19;A white German Shepherd known for being friendly.
+Lindsay;2015-05-07;A brown Poodle known for being curious.
+Kathryn;2020-11-03;A grey Great Dane known for being loyal.
+Alicia;2012-11-15;A golden German Shepherd known for being friendly.
+Richard;2019-01-28;A brown Chihuahua known for being protective.
+William;2018-06-04;A brindle Pomeranian known for being protective.
+Donna;2010-08-26;A grey Doberman known for being affectionate.
+Kayla;2022-08-24;A golden Pomeranian known for being loyal.
+Lisa;2020-07-30;A spotted German Shepherd known for being loyal.
