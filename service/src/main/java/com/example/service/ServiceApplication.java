@@ -79,7 +79,8 @@ public class ServiceApplication {
         var content = cc.prompt()
 //                .user("i am looking for a child hating dog") // <3>
                 .user("i am looking for a child hating dog") // <4>
-                .call().content();
+                .call()
+                .content();
         System.out.println("content: " + content);
     }
 
