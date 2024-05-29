@@ -10,6 +10,7 @@ cat dogs.sql | PGPASSWORD=secret psql -U myuser -h localhost mydatabase
 ## Setup 
 * I have a dog his name is Peanut. He is terribad. The absolute worst. He bites. He growls. He leaves little duckies on the floor like little land mines. If you dare tread anywhere near those duckies on HIS floor, you might lose a foot! 
 * He reminds me of this dog, a "neurotic, man hating, animal hating, children hating dogs that look like gremlins": https://www.facebook.com/tyfanee.fortuna/posts/10219752628710467
+(search for "child" - she mentions it twice and both are funny!)
 * if he's so terrible, you might ask, why do I keep him? 
 * well, it's because I'm not very smart. My partner and daughter both speak 5 languages. I only speak 3.5. If this dog wasn't around, I'd be the stupidest guy in the house!
 * and, he _is_ cute! (Open picture)
@@ -82,8 +83,7 @@ record Dog(@Id Integer id, String name, LocalDate dob, String description) {
 ```shell 
 var tts = new TokenTextSplitter();
 dogRepository.findAll().forEach(dog -> {
-    var doc = new Document("name:" + dog.name() + ", description: " + dog.description(),
-        Map.of("clinic", (Math.random() > .5 ? "barcelona" : "madrid"), "dogId", dog.id()));
+    var doc = new Document("name:" + dog.name() + ", description: " + dog.description(), Map.of("dogId", dog.id()));
     var docs = tts.split(doc);
     vectorStore.add(docs);
 });
@@ -93,6 +93,33 @@ dogRepository.findAll().forEach(dog -> {
 * Now we cna find the data with free-form natural language search. Let's teach our `ChatClient` about it. 
 * Add a new `QuestionAnswerAdvisor` to the `ChatClient`. 
 * this isn't PHP! I want a RAG pipeline so I added this and I got one! What did YOU do today? 
- 
 
+## Functions
+* it looks like we found our doggo! I'd like to take him home, wouldn't you Christian? 
+* what's the next step? We need to gie our AI Assistant the ability to integrate with our existing backend pickup scheduling system. And we can do this with the use of portable functions! 
+* The idea is that the AI can reason and then invoke helper functions to satisfy a request. This is useful when you want to give it executive agency and when you want to connect it to fresh, lively, up to date information that it woudln't have known about.
+* Let's take a look
+
+```java
+
+  
+@Description("helps potential pet adopters determine when they can collect their new dogs")
+@Bean(PET_PICKUP_FUNCTION_NAME)
+Function<PetPickupRequest, PetPickupResponse> determinePickupForPetAdoption( ) {
+    return petPickupRequest -> {
+        System.out.println("got a request for [" + petPickupRequest + "]");
+        return new PetPickupResponse(Instant.now() + "");
+    };
+}
+
+
+record PetPickupRequest(String dogName) {
+}
+
+record PetPickupResponse(String when) {
+}
+
+
+```
+ * we'll also have to make the sytem aware of our functions. change the `chatClient`
  
