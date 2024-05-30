@@ -8,7 +8,8 @@ cat dogs.sql | PGPASSWORD=secret psql -U myuser -h localhost mydatabase
 ```
 
 ## Setup 
-* I have a dog his name is Peanut. He is terribad. The absolute worst. He bites. He growls. He leaves little duckies on the floor like little land mines. If you dare tread anywhere near those duckies on HIS floor, you might lose a foot! 
+* christian and i wanted to revisit the theme of the famed petclinic. why? well, who doesn't love a good pet ? 
+* I have a pet. he's a dog named Peanut. He is terrible. a tiny tyrant. a furry fascist.  The absolute worst. He bites. He growls. He leaves little duckies on the floor like little land mines. If you dare tread anywhere near those duckies on HIS floor, you might lose a foot! 
 * He reminds me of this dog, a "neurotic, man hating, animal hating, children hating dogs that look like gremlins": https://www.facebook.com/tyfanee.fortuna/posts/10219752628710467
 (search for "child" - she mentions it twice and both are funny!)
 * if he's so terrible, you might ask, why do I keep him? 
@@ -121,5 +122,6 @@ record PetPickupResponse(String when) {
 
 
 ```
+ * make sure to specify WHEN as a String!!
  * we'll also have to make the sytem aware of our functions. change the `chatClient`
  
